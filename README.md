@@ -13,3 +13,5 @@ Program memiliki 4 kelas yaitu kelas app yang akan menampilkan menu sebelum game
 6. Pemain dapat memulai kembali dari awal dengan menakan tombol R
 
 # Dokumentasi Program
+https://github.com/NaufalNabil617/LP7DBPO2024C2/assets/147363037/8d057fb4-edc2-4f54-a696-d3e2b9af42b0
+
